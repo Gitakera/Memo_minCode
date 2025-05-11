@@ -1,0 +1,14 @@
+PyPDF2
+qrcode[pil]
+pyqrcode
+segno
+SpeechRecognition
+PyAudio
+language-tool-python
+transformers
+torch
+googletrans==4.0.0-rc1
+gtts
+# playsound
+pygobject
+datasets

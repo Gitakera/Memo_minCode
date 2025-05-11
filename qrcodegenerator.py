@@ -1,6 +1,5 @@
 # pip install qrcode[pil]
-# pip install pyqrcode
-# pip install segno
+
 
 import cv2
 

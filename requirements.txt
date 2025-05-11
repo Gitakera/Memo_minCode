@@ -1,7 +1,7 @@
 PyPDF2
 qrcode[pil]
-pyqrcode
-segno
+#pyqrcode
+#segno
 SpeechRecognition
 PyAudio
 language-tool-python
